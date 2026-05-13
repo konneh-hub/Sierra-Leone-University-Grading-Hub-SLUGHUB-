@@ -1,0 +1,75 @@
+{"level":"info","message":"Initializing job queue manager...","timestamp":"2026-05-12T12:49:00.362Z"}
+{"level":"info","message":"Infrastructure services initialized successfully","timestamp":"2026-05-12T12:49:00.375Z"}
+{"error":{},"level":"warn","message":"Redis connection failed: Connection timeout","stack":"Error: Connection timeout\n    at Socket.onTimeout (C:\\Users\\DELL\\Desktop\\RESULT APP\\backend\\node_modules\\@redis\\client\\dist\\lib\\client\\socket.js:225:46)\n    at Object.onceWrapper (node:events:622:28)\n    at Socket.emit (node:events:508:28)\n    at Socket._onTimeout (node:net:604:8)\n    at listOnTimeout (node:internal/timers:605:17)\n    at process.processTimers (node:internal/timers:541:7)","timestamp":"2026-05-12T12:49:00.442Z"}
+{"level":"warn","message":"Job queue system disabled - Redis not available","timestamp":"2026-05-12T12:49:00.448Z"}
+{"level":"info","message":"Initializing job queue manager...","timestamp":"2026-05-12T22:30:20.725Z"}
+{"level":"info","message":"Infrastructure services initialized successfully","timestamp":"2026-05-12T22:30:20.735Z"}
+{"level":"info","message":"Initialized queue: resultProcessingQueue","timestamp":"2026-05-12T22:30:20.875Z"}
+{"level":"info","message":"Initialized queue: gpaCalculationQueue","timestamp":"2026-05-12T22:30:20.881Z"}
+{"level":"info","message":"Initialized queue: cgpaUpdateQueue","timestamp":"2026-05-12T22:30:20.882Z"}
+{"level":"info","message":"Initialized queue: notificationQueue","timestamp":"2026-05-12T22:30:20.889Z"}
+{"level":"info","message":"Initialized queue: billingQueue","timestamp":"2026-05-12T22:30:20.892Z"}
+{"level":"info","message":"Initialized queue: reportGenerationQueue","timestamp":"2026-05-12T22:30:20.894Z"}
+{"level":"info","message":"Initialized queue: fileProcessingQueue","timestamp":"2026-05-12T22:30:20.900Z"}
+{"level":"info","message":"All job workers initialized","timestamp":"2026-05-12T22:30:20.916Z"}
+{"level":"info","message":"Job queue system initialized successfully","timestamp":"2026-05-12T22:30:20.922Z"}
+{"level":"info","message":"Initializing job queue manager...","timestamp":"2026-05-12T22:35:44.165Z"}
+{"level":"info","message":"Infrastructure services initialized successfully","timestamp":"2026-05-12T22:35:44.175Z"}
+{"level":"info","message":"Initialized queue: resultProcessingQueue","timestamp":"2026-05-12T22:35:44.300Z"}
+{"level":"info","message":"Initialized queue: gpaCalculationQueue","timestamp":"2026-05-12T22:35:44.333Z"}
+{"level":"info","message":"Initialized queue: cgpaUpdateQueue","timestamp":"2026-05-12T22:35:44.344Z"}
+{"level":"info","message":"Initialized queue: notificationQueue","timestamp":"2026-05-12T22:35:44.347Z"}
+{"level":"info","message":"Initialized queue: billingQueue","timestamp":"2026-05-12T22:35:44.355Z"}
+{"level":"info","message":"Initialized queue: reportGenerationQueue","timestamp":"2026-05-12T22:35:44.356Z"}
+{"level":"info","message":"Initialized queue: fileProcessingQueue","timestamp":"2026-05-12T22:35:44.358Z"}
+{"level":"info","message":"All job workers initialized","timestamp":"2026-05-12T22:35:44.372Z"}
+{"level":"info","message":"Job queue system initialized successfully","timestamp":"2026-05-12T22:35:44.378Z"}
+{"level":"info","message":"Initializing job queue manager...","timestamp":"2026-05-12T22:41:46.959Z"}
+{"level":"info","message":"Infrastructure services initialized successfully","timestamp":"2026-05-12T22:41:46.965Z"}
+{"level":"info","message":"Initialized queue: resultProcessingQueue","timestamp":"2026-05-12T22:41:47.034Z"}
+{"level":"info","message":"Initialized queue: gpaCalculationQueue","timestamp":"2026-05-12T22:41:47.042Z"}
+{"level":"info","message":"Initialized queue: cgpaUpdateQueue","timestamp":"2026-05-12T22:41:47.044Z"}
+{"level":"info","message":"Initialized queue: notificationQueue","timestamp":"2026-05-12T22:41:47.045Z"}
+{"level":"info","message":"Initialized queue: billingQueue","timestamp":"2026-05-12T22:41:47.046Z"}
+{"level":"info","message":"Initialized queue: reportGenerationQueue","timestamp":"2026-05-12T22:41:47.048Z"}
+{"level":"info","message":"Initialized queue: fileProcessingQueue","timestamp":"2026-05-12T22:41:47.060Z"}
+{"level":"info","message":"All job workers initialized","timestamp":"2026-05-12T22:41:47.068Z"}
+{"level":"info","message":"Job queue system initialized successfully","timestamp":"2026-05-12T22:41:47.073Z"}
+{"level":"info","message":"Initializing job queue manager...","timestamp":"2026-05-12T23:02:30.648Z"}
+{"level":"info","message":"Infrastructure services initialized successfully","timestamp":"2026-05-12T23:02:30.693Z"}
+{"error":{},"level":"warn","message":"Redis connection failed: Connection timeout","stack":"Error: Connection timeout\n    at Socket.onTimeout (C:\\Users\\DELL\\Desktop\\RESULT APP\\backend\\node_modules\\@redis\\client\\dist\\lib\\client\\socket.js:225:46)\n    at Object.onceWrapper (node:events:622:28)\n    at Socket.emit (node:events:508:28)\n    at Socket._onTimeout (node:net:604:8)\n    at listOnTimeout (node:internal/timers:605:17)\n    at process.processTimers (node:internal/timers:541:7)","timestamp":"2026-05-12T23:02:30.969Z"}
+{"level":"warn","message":"Job queue system disabled - Redis not available","timestamp":"2026-05-12T23:02:30.998Z"}
+{"level":"info","message":"Initializing job queue manager...","timestamp":"2026-05-12T23:32:14.039Z"}
+{"level":"info","message":"Infrastructure services initialized successfully","timestamp":"2026-05-12T23:32:14.051Z"}
+{"error":{},"level":"warn","message":"Redis connection failed: Connection timeout","stack":"Error: Connection timeout\n    at Socket.onTimeout (C:\\Users\\DELL\\Desktop\\RESULT APP\\backend\\node_modules\\@redis\\client\\dist\\lib\\client\\socket.js:225:46)\n    at Object.onceWrapper (node:events:622:28)\n    at Socket.emit (node:events:508:28)\n    at Socket._onTimeout (node:net:604:8)\n    at listOnTimeout (node:internal/timers:605:17)\n    at process.processTimers (node:internal/timers:541:7)","timestamp":"2026-05-12T23:32:14.083Z"}
+{"level":"warn","message":"Job queue system disabled - Redis not available","timestamp":"2026-05-12T23:32:14.086Z"}
+{"ip":"::1","level":"info","message":"API Request","method":"GET","query":"{}","timestamp":"2026-05-12T23:33:11.984Z","url":"/system-admin","userAgent":"Python-urllib/3.14"}
+{"duration":"22ms","level":"info","message":"API Request Completed","method":"GET","statusCode":302,"timestamp":"2026-05-12T23:33:12.004Z","url":"/system-admin"}
+{"ip":"::1","level":"info","message":"API Request","method":"GET","query":"{}","timestamp":"2026-05-12T23:33:12.042Z","url":"/system-admin/login","userAgent":"Python-urllib/3.14"}
+{"duration":"29ms","level":"info","message":"API Request Completed","method":"GET","statusCode":200,"timestamp":"2026-05-12T23:33:12.064Z","url":"/system-admin/login"}
+{"ip":"::1","level":"info","message":"API Request","method":"GET","query":"{}","timestamp":"2026-05-12T23:33:12.093Z","url":"/system-admin/login","userAgent":"Python-urllib/3.14"}
+{"duration":"21ms","level":"info","message":"API Request Completed","method":"GET","statusCode":200,"timestamp":"2026-05-12T23:33:12.114Z","url":"/system-admin/login"}
+{"ip":"::1","level":"info","message":"API Request","method":"GET","query":"{}","timestamp":"2026-05-12T23:33:12.128Z","url":"/system-admin/dashboard","userAgent":"Python-urllib/3.14"}
+{"duration":"10ms","level":"info","message":"API Request Completed","method":"GET","statusCode":200,"timestamp":"2026-05-12T23:33:12.137Z","url":"/system-admin/dashboard"}
+{"ip":"::1","level":"info","message":"API Request","method":"GET","query":"{}","timestamp":"2026-05-12T23:33:12.147Z","url":"/system-admin/js/dashboard.js","userAgent":"Python-urllib/3.14"}
+{"duration":"15ms","level":"info","message":"API Request Completed","method":"GET","statusCode":200,"timestamp":"2026-05-12T23:33:12.162Z","url":"/system-admin/js/dashboard.js"}
+{"ip":"::1","level":"info","message":"API Request","method":"GET","query":"{}","timestamp":"2026-05-12T23:33:12.173Z","url":"/system-admin/css/styles.css","userAgent":"Python-urllib/3.14"}
+{"duration":"7ms","level":"info","message":"API Request Completed","method":"GET","statusCode":200,"timestamp":"2026-05-12T23:33:12.180Z","url":"/system-admin/css/styles.css"}
+{"ip":"::1","level":"info","message":"API Request","method":"GET","query":"{}","timestamp":"2026-05-12T23:34:44.604Z","url":"/login","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"}
+{"duration":"6ms","level":"info","message":"API Request Completed","method":"GET","statusCode":404,"timestamp":"2026-05-12T23:34:44.610Z","url":"/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"GET","query":"{}","timestamp":"2026-05-12T23:41:28.848Z","url":"/system-admin/login","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"}
+{"duration":"5ms","level":"info","message":"API Request Completed","method":"GET","statusCode":200,"timestamp":"2026-05-12T23:41:28.853Z","url":"/system-admin/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"GET","query":"{}","timestamp":"2026-05-12T23:41:29.050Z","url":"/system-admin/js/login.js","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"}
+{"duration":"7ms","level":"info","message":"API Request Completed","method":"GET","statusCode":200,"timestamp":"2026-05-12T23:41:29.057Z","url":"/system-admin/js/login.js"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"GET","query":"{}","timestamp":"2026-05-12T23:41:29.264Z","url":"/favicon.ico","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"}
+{"duration":"30ms","level":"info","message":"API Request Completed","method":"GET","statusCode":404,"timestamp":"2026-05-12T23:41:29.294Z","url":"/favicon.ico"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"GET","query":"{}","timestamp":"2026-05-12T23:41:43.721Z","url":"/system-admin/dashboard","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"}
+{"duration":"7ms","level":"info","message":"API Request Completed","method":"GET","statusCode":200,"timestamp":"2026-05-12T23:41:43.729Z","url":"/system-admin/dashboard"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"GET","query":"{}","timestamp":"2026-05-12T23:41:43.853Z","url":"/system-admin/css/styles.css","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"GET","query":"{}","timestamp":"2026-05-12T23:41:43.860Z","url":"/system-admin/js/dashboard.js","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"}
+{"duration":"19ms","level":"info","message":"API Request Completed","method":"GET","statusCode":200,"timestamp":"2026-05-12T23:41:43.872Z","url":"/system-admin/css/styles.css"}
+{"duration":"19ms","level":"info","message":"API Request Completed","method":"GET","statusCode":200,"timestamp":"2026-05-12T23:41:43.879Z","url":"/system-admin/js/dashboard.js"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"GET","query":"{}","timestamp":"2026-05-12T23:41:43.924Z","url":"/system-admin/login","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"}
+{"duration":"30ms","level":"info","message":"API Request Completed","method":"GET","statusCode":304,"timestamp":"2026-05-12T23:41:43.954Z","url":"/system-admin/login"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"API Request","method":"GET","query":"{}","timestamp":"2026-05-12T23:41:44.053Z","url":"/system-admin/js/login.js","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"}
+{"duration":"13ms","level":"info","message":"API Request Completed","method":"GET","statusCode":304,"timestamp":"2026-05-12T23:41:44.065Z","url":"/system-admin/js/login.js"}

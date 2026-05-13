@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>System Admin Dashboard</title>
+  <link rel="stylesheet" href="/system-admin/css/styles.css">
+</head>
+<body>
+  <div class="dashboard">
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <h2>System Admin</h2>
+        <p>Platform Dashboard</p>
+      </div>
+      <nav class="sidebar-nav">
+        <a href="/system-admin/dashboard/overview" class="nav-link active" data-page="overview">Overview</a>
+        <a href="/system-admin/dashboard/universities" class="nav-link" data-page="universities">Universities</a>
+        <a href="/system-admin/dashboard/admin-accounts" class="nav-link" data-page="admin-accounts">Admin Accounts</a>
+        <a href="/system-admin/dashboard/subscriptions" class="nav-link" data-page="subscriptions">Subscriptions</a>
+        <a href="/system-admin/dashboard/billing" class="nav-link" data-page="billing">Billing</a>
+        <a href="/system-admin/dashboard/analytics" class="nav-link" data-page="analytics">Analytics</a>
+        <a href="/system-admin/dashboard/users" class="nav-link" data-page="users">Users</a>
+        <a href="/system-admin/dashboard/logs" class="nav-link" data-page="logs">Logs</a>
+        <a href="/system-admin/dashboard/settings" class="nav-link" data-page="settings">Settings</a>
+        <button id="logout-btn" class="logout-btn">Logout</button>
+      </nav>
+    </aside>
+    <main class="main-content">
+      <header class="header">
+        <h1 id="page-title">Overview</h1>
+        <button id="refresh-btn" class="refresh-btn">Refresh</button>
+      </header>
+      <div id="content" class="content">
+        <!-- Dynamic content will be loaded here -->
+      </div>
+    </main>
+  </div>
+  <script src="/system-admin/js/dashboard.js"></script>
+</body>
+</html>
